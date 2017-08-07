@@ -236,14 +236,12 @@ footer {
 footer span.copyright {
   line-height: 40px;
   font-family: 'Saira Extra Condensed', sans-serif;
-  text-transform: uppercase;
   text-transform: none;
 }
 footer div.quicklinks {
   margin-bottom: 0;
   line-height: 40px;
   font-family: 'Saira Extra Condensed', sans-serif;
-  text-transform: uppercase;
   text-transform: none;
 }
 ul.social-buttons {
